@@ -1,0 +1,15 @@
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Aplication.deps.json
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Aplication.runtimeconfig.json
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Aplication.runtimeconfig.dev.json
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Aplication.dll
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Aplication.pdb
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Domain.dll
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\bin\Debug\netcoreapp3.1\MS.HC.Domain.pdb
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.csprojAssemblyReference.cache
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.AssemblyInfoInputs.cache
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.AssemblyInfo.cs
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.csproj.CopyComplete
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.dll
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.pdb
+C:\Users\54115\source\repos\MS.HC.Template.API\ClassLibrary1\obj\Debug\netcoreapp3.1\MS.HC.Aplication.genruntimeconfig.cache

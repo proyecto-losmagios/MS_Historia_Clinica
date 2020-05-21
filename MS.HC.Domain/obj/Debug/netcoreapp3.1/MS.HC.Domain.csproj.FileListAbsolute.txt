@@ -1,0 +1,12 @@
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\bin\Debug\netcoreapp3.1\MS.HC.Domain.deps.json
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\bin\Debug\netcoreapp3.1\MS.HC.Domain.runtimeconfig.json
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\bin\Debug\netcoreapp3.1\MS.HC.Domain.runtimeconfig.dev.json
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\bin\Debug\netcoreapp3.1\MS.HC.Domain.dll
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\bin\Debug\netcoreapp3.1\MS.HC.Domain.pdb
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.AssemblyInfoInputs.cache
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.AssemblyInfo.cs
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.dll
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.pdb
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.genruntimeconfig.cache
+C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.Domain\obj\Debug\netcoreapp3.1\MS.HC.Domain.csprojAssemblyReference.cache
