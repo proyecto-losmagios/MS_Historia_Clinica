@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TYAKZfin38DlSi3G1ADyyK1rYcpwvx+SMcSTdOFUUavQeQ8CubJhnB57sYUhxNctKoF+U41zI+Z2v49uYuCf9Q==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\54115\\source\\repos\\MS.HC.Template.API\\MS.HC.AccesData\\MS.HC.AccesData.csproj",
+  "dgSpecHash": "jGO2y59R3BCjhJp+zL90w4FtIStYiVBk15nXtZ2XGDgew44xpJmlurriCUNjrASAB0QFLhIjQV8lO4HhNnoBKw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54115\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\54115\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
@@ -109,5 +109,15 @@
     "C:\\Users\\54115\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\54115\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\ClassLibrary1\\MS.HC.Aplication.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\ClassLibrary1\\MS.HC.Aplication.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

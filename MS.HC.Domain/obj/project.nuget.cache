@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nGx5LhRMVf7GNx+IxryupY2yHtFA75My071TGfGTLPuWGlQO98U9xsTDwYhGg7OYeTbyrRu5Gpyc2OoKOhU6Jg==",
+  "dgSpecHash": "Y1LfwMXhSFUhcQU9ZTQLkvrYaMIQX0U30QVi53nkvAd0dD6Sb2K18oIOdwtFzTeBxrperOQx6oTHuzFwlth+xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\54115\\source\\repos\\MS.HC.Template.API\\MS.HC.Domain\\MS.HC.Domain.csproj",
+  "projectFilePath": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54115\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\54115\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

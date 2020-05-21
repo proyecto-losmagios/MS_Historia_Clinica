@@ -5548,11 +5548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54115\\source\\repos\\MS.HC.Template.API\\MS.HC.Domain\\MS.HC.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
       "projectName": "MS.HC.Domain",
-      "projectPath": "C:\\Users\\54115\\source\\repos\\MS.HC.Template.API\\MS.HC.Domain\\MS.HC.Domain.csproj",
+      "projectPath": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
       "packagesPath": "C:\\Users\\54115\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54115\\source\\repos\\MS.HC.Template.API\\MS.HC.Domain\\obj\\",
+      "outputPath": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54115\\AppData\\Roaming\\NuGet\\NuGet.Config",
