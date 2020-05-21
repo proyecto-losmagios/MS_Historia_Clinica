@@ -12,18 +12,15 @@ namespace MSHCAccesData
             : base(options) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<HistoriasClinicas>().HasIndex();
+            modelBuilder.Entity<HistoriasClinicas>(entity =>
+                entity.HasKey(q => q.HistoriaClinicaId)
+            ) ;
         }
 
 
 
         public Microsoft.EntityFrameworkCore.DbSet<HistoriasClinicas> HistoriasClinicas { get; set; }
 
-
-        public HistoriasClinicas CreateHistoriasClinicas(HistoriasClinicasDto historias)
-        {
-            throw new NotImplementedException();
-        }
     }
 
 

@@ -1,27 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {}
+    "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
+    "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
         "projectName": "MS.HC.Domain",
-        "projectPath": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
-        "packagesPath": "C:\\Users\\54115\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\54115\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\obj\\",
+        "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
+        "packagesPath": "C:\\Users\\jtabu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\54115\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jtabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,10 +41,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.4, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -80,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

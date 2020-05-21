@@ -7,11 +7,6 @@ namespace AppHistoriaClinica.Services
     public interface IHistoriasClinicasQuery
     {
 
-
-        public interface IHistoriasClinicasQuery
-        {
-        }
-
         List<HistoriasClinicas> SearchHistoria(string q);
     }
 }

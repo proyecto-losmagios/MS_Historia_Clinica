@@ -7,11 +7,11 @@ namespace HCTemplateDomain.Entities
     public class HistoriasClinicas
     {
        
-        public Guid HistoriaClinica_id { get; set; }
-        public Guid Paciente_id { get; set; }
-        public Guid Medico_id { get; set; }
+        public Guid HistoriaClinicaId { get; set; }
+        public Guid PacienteId { get; set; }
+        public Guid MedicoId { get; set; }
         public DateTime FechaConsulta = new DateTime();
-        public Guid Turno_id { get; set; }
+        public Guid TurnoId { get; set; }
         public String DetalleDeConsulta { get; set; }
     }
 }

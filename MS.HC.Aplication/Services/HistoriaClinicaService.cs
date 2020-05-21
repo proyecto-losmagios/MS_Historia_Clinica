@@ -30,11 +30,11 @@ namespace AppHistoriaClinica.Services
         {
             var entity = new HistoriasClinicas
             {
-                HistoriaClinica_id = historias.HistoriaClinica_id,
-                Paciente_id = historias.Paciente_id,
-                Medico_id = historias.Medico_id,
+                HistoriaClinicaId = historias.HistoriaClinica_id,
+                PacienteId = historias.Paciente_id,
+                MedicoId = historias.Medico_id,
                 FechaConsulta = historias.FechaConsulta,
-                Turno_id = historias.Turno_id,
+                TurnoId = historias.Turno_id,
                 DetalleDeConsulta = historias.DetalleDeConsulta,
 
             };

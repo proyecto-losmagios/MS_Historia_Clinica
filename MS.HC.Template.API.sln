@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.HC.Template.API", "MS.HC.Template.API\MS.HC.Template.API.csproj", "{0E3F59BB-59CC-45AF-B705-3B7E8B8E5686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.HC.Template.API", "MS.HC.Template.API\MS.HC.Template.API.csproj", "{0E3F59BB-59CC-45AF-B705-3B7E8B8E5686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.HC.Aplication", "ClassLibrary1\MS.HC.Aplication.csproj", "{2A18DEFF-D0BC-4555-8F87-B0F3194463FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.HC.Domain", "MS.HC.Domain\MS.HC.Domain.csproj", "{33909CFF-0E43-46CE-B306-2DC886C033BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.HC.Domain", "MS.HC.Domain\MS.HC.Domain.csproj", "{33909CFF-0E43-46CE-B306-2DC886C033BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.HC.AccesData", "MS.HC.AccesData\MS.HC.AccesData.csproj", "{7A94B535-955A-4D39-9B86-CA40C311B713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS.HC.AccesData", "MS.HC.AccesData\MS.HC.AccesData.csproj", "{7A94B535-955A-4D39-9B86-CA40C311B713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS.HC.Aplication", "MS.HC.Aplication\MS.HC.Aplication.csproj", "{66864E9E-3FE3-4120-8BAA-1B05B98E57E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{0E3F59BB-59CC-45AF-B705-3B7E8B8E5686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E3F59BB-59CC-45AF-B705-3B7E8B8E5686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E3F59BB-59CC-45AF-B705-3B7E8B8E5686}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2A18DEFF-D0BC-4555-8F87-B0F3194463FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A18DEFF-D0BC-4555-8F87-B0F3194463FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A18DEFF-D0BC-4555-8F87-B0F3194463FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A18DEFF-D0BC-4555-8F87-B0F3194463FB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{33909CFF-0E43-46CE-B306-2DC886C033BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33909CFF-0E43-46CE-B306-2DC886C033BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33909CFF-0E43-46CE-B306-2DC886C033BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{7A94B535-955A-4D39-9B86-CA40C311B713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A94B535-955A-4D39-9B86-CA40C311B713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A94B535-955A-4D39-9B86-CA40C311B713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66864E9E-3FE3-4120-8BAA-1B05B98E57E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66864E9E-3FE3-4120-8BAA-1B05B98E57E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66864E9E-3FE3-4120-8BAA-1B05B98E57E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66864E9E-3FE3-4120-8BAA-1B05B98E57E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,4 @@
-﻿using HC.Application.Services;
+﻿
 using HCTemplateDomain.DTOs;
 using HCTemplateDomain.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -11,10 +11,6 @@ namespace MS.HC.Template.API.Controllers
     public class HCController : ControllerBase
     {
         private readonly HCTemplateContext _context;
-        public HCController(HistoriaClinicaService context)
-        {
-            _context = context;
-        }
 
         public HCController(HCTemplateContext context)
         {
