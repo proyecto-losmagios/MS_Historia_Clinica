@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj": {}
+    "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj": {
+    "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj",
+        "projectUniqueName": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj",
         "projectName": "MS.HC.AccesData",
-        "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj",
-        "packagesPath": "C:\\Users\\jtabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.AccesData\\obj\\",
+        "projectPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.AccesData\\MS.HC.AccesData.csproj",
+        "packagesPath": "C:\\Users\\Garbarino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.AccesData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jtabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Garbarino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,11 +32,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj": {
-                "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj"
+              "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj": {
+                "projectPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj"
               },
-              "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
-                "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj"
+              "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
+                "projectPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj"
               }
             }
           }
@@ -93,30 +95,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj": {
+    "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj",
         "projectName": "MS.HC.Aplication",
-        "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj",
-        "packagesPath": "C:\\Users\\jtabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Aplication\\obj\\",
+        "projectPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Aplication\\MS.HC.Aplication.csproj",
+        "packagesPath": "C:\\Users\\Garbarino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jtabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Garbarino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -128,8 +138,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
-                "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj"
+              "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
+                "projectPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj"
               }
             }
           }
@@ -176,30 +186,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
+    "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
         "projectName": "MS.HC.Domain",
-        "projectPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
-        "packagesPath": "C:\\Users\\jtabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtabu\\source\\repos\\MS_Historia_Clinica\\MS.HC.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\MS.HC.Domain.csproj",
+        "packagesPath": "C:\\Users\\Garbarino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Garbarino\\Documents\\Proyectos en C#\\Trabajo Grupal Los-Magios\\MS_Historia_Clinica\\MS.HC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jtabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Garbarino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -255,12 +273,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
