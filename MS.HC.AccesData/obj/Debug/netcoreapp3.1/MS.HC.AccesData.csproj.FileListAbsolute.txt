@@ -20,3 +20,8 @@ C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.AccesData\obj\Debug\netcore
 C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.AccesData\obj\Debug\netcoreapp3.1\MS.HC.AccesData.pdb
 C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.AccesData\obj\Debug\netcoreapp3.1\MS.HC.AccesData.genruntimeconfig.cache
 C:\Users\54115\source\repos\MS.HC.Template.API\MS.HC.AccesData\obj\Debug\netcoreapp3.1\MS.HC.AccesData.csproj.CoreCompileInputs.cache
+C:\Users\Garbarino\Documents\Proyectos en C#\Trabajo Grupal Los-Magios\MS_Historia_Clinica\MS.HC.AccesData\bin\Debug\netcoreapp3.1\MS.HC.Aplication.dll
+C:\Users\Garbarino\Documents\Proyectos en C#\Trabajo Grupal Los-Magios\MS_Historia_Clinica\MS.HC.AccesData\bin\Debug\netcoreapp3.1\MS.HC.Domain.dll
+C:\Users\Garbarino\Documents\Proyectos en C#\Trabajo Grupal Los-Magios\MS_Historia_Clinica\MS.HC.AccesData\obj\Debug\netcoreapp3.1\MS.HC.AccesData.csprojAssemblyReference.cache
+C:\Users\Garbarino\Documents\Proyectos en C#\Trabajo Grupal Los-Magios\MS_Historia_Clinica\MS.HC.AccesData\obj\Debug\netcoreapp3.1\MS.HC.AccesData.AssemblyInfoInputs.cache
+C:\Users\Garbarino\Documents\Proyectos en C#\Trabajo Grupal Los-Magios\MS_Historia_Clinica\MS.HC.AccesData\obj\Debug\netcoreapp3.1\MS.HC.AccesData.AssemblyInfo.cs

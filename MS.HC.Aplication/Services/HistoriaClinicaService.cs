@@ -9,8 +9,9 @@ namespace AppHistoriaClinica.Services
 
     public interface IHistoriasClinicasService
     {
-        HistoriasClinicas HistoriaClinica(HistoriasClinicasDto historias);
+        
         List<HistoriasClinicasDto> SearchHistoria(string q);
+        HistoriasClinicas CreateHistoriaClinica(HistoriasClinicasDto historias); 
     }
 
     public class HistoriasClinicasServices : IHistoriasClinicasService
@@ -26,7 +27,7 @@ namespace AppHistoriaClinica.Services
 
         }
 
-        public HistoriasClinicas CreateMedico(HistoriasClinicasDto historias)
+        public HistoriasClinicas CreateHistoriaClinica(HistoriasClinicasDto historias)
         {
             var entity = new HistoriasClinicas
             {
@@ -44,19 +45,16 @@ namespace AppHistoriaClinica.Services
             return entity;
         }
 
-        public List<HistoriasClinicas> SearchMedico(string q)
+        public List<HistoriasClinicasDto> SearchMedico(string q)
         {
             return _query.SearchHistoria(q);
         }
 
-        HistoriasClinicas IHistoriasClinicasService.HistoriaClinica(HistoriasClinicasDto historias)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         List<HistoriasClinicasDto> IHistoriasClinicasService.SearchHistoria(string q)
         {
-            throw new NotImplementedException();
+            return _query.SearchHistoria(q);
         }
     }
 }

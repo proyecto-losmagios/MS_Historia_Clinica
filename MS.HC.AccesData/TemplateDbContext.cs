@@ -19,7 +19,7 @@ namespace MSHCAccesData
 
 
 
-        public Microsoft.EntityFrameworkCore.DbSet<HistoriasClinicas> HistoriasClinicas { get; set; }
+        public DbSet<HistoriasClinicas> HistoriasClinicas { get; set; }
 
     }
 
